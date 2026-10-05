@@ -10,4 +10,6 @@ test('Dropdowns', async({page})=>{
     // this is to  check the same thing usiing the github desktop app
     // now this is the same thing pulling through the desktop application
     // this is to check whether the same thing is happening again when i push
+
+    // now check the same thing is happening again when i pull the code through giithub repo
 });
