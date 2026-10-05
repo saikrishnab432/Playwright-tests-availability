@@ -7,7 +7,7 @@ test.skip('has title', async({page})=>{
 
 });
 
-test.only('has body', async({page})=>{
+test('has body', async({page})=>{
     await page.goto('https://www.instagram.com/');
     //await page.getByRole('combobox', {name:'Search'}).fill('playwright latest version')
     
