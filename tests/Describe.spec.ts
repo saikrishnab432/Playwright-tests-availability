@@ -24,7 +24,7 @@ test('test', async ({ page }) => {
 
   test.skip('Describe', async({page})=>{
     await page.goto('https://www.tehlearn.in/');
-    await page.getByRole('')
+   // await page.getByRole('')
   })
 
 });
